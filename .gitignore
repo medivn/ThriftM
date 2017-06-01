@@ -1,0 +1,10 @@
+
+/ThriftM.iml
+/.idea/
+/src/
+/Server/target/
+/client/target/
+/client/client.iml
+/Server/Server.iml
+/thriftproxy/target/
+/thriftproxy/thriftproxy.iml
